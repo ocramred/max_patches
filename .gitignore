@@ -1,0 +1,4 @@
+# ignore all files in final_app directories
+final_app/
+
+.DS_Store
