@@ -5,9 +5,9 @@ Most patches are for basic tasks which I needed many times.
 
 ## Basic Patches
 
-- 01_speaker_test           
+- 01_speaker_test  
 a simple patch for testing the functionality of your multichannel speaker setup    
 
-- 02_videoplayer_multichn
+- 02_videoplayer_multichn  
 Playing Video and Multichannel-Audio in Sync  
 
