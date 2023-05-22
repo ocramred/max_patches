@@ -4,9 +4,11 @@ In this Repository I created a collection of basic Max/MSP Patches I made during
 Most patches are for basic tasks which I needed many times.
 
 ## Basic Patches
-01_speaker_test           
-- a simple patch for testing the functionality of your multichannel speaker setup  
 
+- a simple patch for testing the functionality of your multichannel speaker setup  
+01_speaker_test           
+
+- Playing Video and Multichannel-Audio in Sync
 02_videoplayer_multichn
 
 
