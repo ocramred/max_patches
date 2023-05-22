@@ -1,6 +1,7 @@
 # Max/MSP Patches
 
-this Repository is a collection of basic Max/MSP Patches I made during several projects and is used for basic usage I needed most of the time.
+In this Repository I created a collection of basic Max/MSP Patches I made during several projects.
+Most patches are for basic tasks which I needed many times.
 
 ## Basic Patches
 01_speaker_test  
